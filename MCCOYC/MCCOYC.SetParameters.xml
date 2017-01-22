@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="MyApp" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=BEHOYTAB\SQLEXPRESS;Initial Catalog=MCCOYC;Integrated Security=True" />
+</parameters>
